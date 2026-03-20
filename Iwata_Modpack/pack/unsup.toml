@@ -1,0 +1,77 @@
+[flavor_groups.iris]
+name = "Iris Shaders"
+description = "Shader support. Disable if you don't use shaders and want faster load times."
+side = "client"
+
+[[flavor_groups.iris.choices]]
+id = "iris_on"
+name = "Yes"
+description = "Installs Iris Shaders."
+
+[[flavor_groups.iris.choices]]
+id = "iris_off"
+name = "No"
+description = "Does not install Iris Shaders."
+
+[flavor_groups.dh]
+name = "Distant Horizons"
+description = "Extends your visible render distance with LODs. Can be demanding on lower end PCs."
+side = "client"
+
+[[flavor_groups.dh.choices]]
+id = "dh_on"
+name = "Yes"
+description = "Installs Distant Horizons."
+
+[[flavor_groups.dh.choices]]
+id = "dh_off"
+name = "No"
+description = "Does not install Distant Horizons."
+
+[flavor_groups.voicechat]
+name = "Simple Voice Chat"
+description = "Proximity voice chat in game. Requires a voice chat plugin on the server to function."
+side = "both"
+
+[[flavor_groups.voicechat.choices]]
+id = "voicechat_on"
+name = "Yes"
+description = "Installs Simple Voice Chat."
+
+[[flavor_groups.voicechat.choices]]
+id = "voicechat_off"
+name = "No"
+description = "Does not install Simple Voice Chat."
+
+[flavor_groups.xaero]
+name = "Xaero's Minimap & World Map"
+description = "Minimap and world map. Includes both Xaero's Minimap and Xaero's World Map."
+side = "client"
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_on"
+name = "Yes"
+description = "Installs Xaero's Minimap and World Map."
+
+[[flavor_groups.xaero.choices]]
+id = "xaero_off"
+name = "No"
+description = "Does not install Xaero's Minimap or World Map."
+
+[metafile.iris]
+flavors = "iris_on"
+
+[metafile.distanthorizons]
+flavors = "dh_on"
+
+[metafile.simple-voice-chat]
+flavors = "voicechat_on"
+
+[metafile.xaeros-minimap]
+flavors = "xaero_on"
+
+[metafile.xaeros-world-map]
+flavors = "xaero_on"
+
+[metafile.xaero-zoomout]
+flavors = "xaero_on"
