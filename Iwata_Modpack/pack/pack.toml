@@ -1,0 +1,13 @@
+name = "Iwata Modpack"
+author = "brothers_trouble"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c530b160fda9b063bd14e47f0c2d800caac1077bb1c004801b93d7713ae8351e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

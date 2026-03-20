@@ -1,0 +1,13 @@
+name = "KotlinLangForge"
+filename = "KotlinLangForge-2.11.2-k2.3.20-3.0+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vrSzlao/versions/gLbZp38a/KotlinLangForge-2.11.2-k2.3.20-3.0%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "6921cec7e4386eb003c276f03c8c6342fc2d13abe22b9a396b60177d22bfcfca22f21c473ce8ef062d6e7593bd63c626bddb4e428942389a75c2f81e994ae6dd"
+
+[update]
+[update.modrinth]
+mod-id = "1vrSzlao"
+version = "gLbZp38a"
