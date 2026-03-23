@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
+hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "dfea23fdac9822913ae8f1c8751e9f0978ad4398ed8f9e45ca1a69c71025e979"
+hash = "3906397a3ebbc40c0978609fcf0934fab3870c2f7dd9f29ec65b1f257d7d2750"
 metafile = true
 
 [[files]]
@@ -1150,11 +1150,6 @@ metafile = true
 [[files]]
 file = "mods/golem-overhaul.pw.toml"
 hash = "13e3a41ddb14bb60ba1b0ad687df8cd2b6d0f801f304eb5306e1e0d2d6482468"
-metafile = true
-
-[[files]]
-file = "mods/google-chat.pw.toml"
-hash = "23e6ad7494456523c9ce0e0a53c787333d047c852bb0095749a68f4ee7cd2cd4"
 metafile = true
 
 [[files]]
@@ -1213,23 +1208,18 @@ hash = "17ba3a973a1282d3467cbb6d04c14a9ffe8febae6452abc6a9e4f72a5ca7e1b8"
 metafile = true
 
 [[files]]
-file = "mods/libjf.pw.toml"
-hash = "b00d95521c30ec7a29440ef9c6f32e91300450bf3ad098b2a63ebbe7cb5b43c8"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "d1e426287efe9f45b8435f073bfdc837f50426114adf7b80d5fd84bc941c6721"
+hash = "efe57fac888f82b6be033ff5fed9b9a71095e1ee65da7e26d6081cba7174f617"
 metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
@@ -1274,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+hash = "2f8ee157d70214426a3a0ac25b0ffdd0a33c0ac148eaec2fccdf2ce90c226b54"
 metafile = true
 
 [[files]]
@@ -1309,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "44b52fc7e10142b0f514c66dbc0c74a0feae35ee329c37454e08aa1187d1d60e"
+hash = "9a95c07a28bda9b0374b4af72132e8405d4fbf574cbac3a3df5d2e3daefff951"
 metafile = true
 
 [[files]]
@@ -1504,7 +1494,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
@@ -1539,7 +1529,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
+hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
 metafile = true
 
 [[files]]
