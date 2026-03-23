@@ -1,0 +1,5 @@
+{
+  "attempt_worldgen_replacement": true,
+  "add_conversion_recipes": true,
+  "blacklisted_ores": ["malum:brilliant_stone", "malum:blazing_quartz_ore"]
+}
