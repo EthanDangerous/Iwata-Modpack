@@ -1219,7 +1219,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+hash = "2701b02cb70134463ae876782e04c2679b2af5f740614caa50022cedac491cc1"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
+hash = "6f585617fb3db2963a04bc56b8f5265042da2a7b215ba2c77f6c10a2d6c277f3"
 metafile = true
 
 [[files]]
