@@ -1248,6 +1248,16 @@ hash = "cae99e0793a435fc944af31c7bac1b7b16fd160a122455335a80e827de8c8a5b"
 metafile = true
 
 [[files]]
+file = "mods/malum-vestis.pw.toml"
+hash = "095e9b4798ceaee1c3a57360b06c4df43c9c1c3036f3f53b4cc364ef312640a3"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "2f8ee157d70214426a3a0ac25b0ffdd0a33c0ac148eaec2fccdf2ce90c226b54"
 metafile = true
