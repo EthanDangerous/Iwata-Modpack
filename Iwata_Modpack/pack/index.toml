@@ -1218,11 +1218,6 @@ hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
-file = "mods/lodestone.pw.toml"
-hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
-metafile = true
-
-[[files]]
 file = "mods/longer-chat-history.pw.toml"
 hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
 metafile = true
@@ -1245,16 +1240,6 @@ metafile = true
 [[files]]
 file = "mods/luminousbutterflies.pw.toml"
 hash = "cae99e0793a435fc944af31c7bac1b7b16fd160a122455335a80e827de8c8a5b"
-metafile = true
-
-[[files]]
-file = "mods/malum-vestis.pw.toml"
-hash = "095e9b4798ceaee1c3a57360b06c4df43c9c1c3036f3f53b4cc364ef312640a3"
-metafile = true
-
-[[files]]
-file = "mods/malum.pw.toml"
-hash = "6f585617fb3db2963a04bc56b8f5265042da2a7b215ba2c77f6c10a2d6c277f3"
 metafile = true
 
 [[files]]
