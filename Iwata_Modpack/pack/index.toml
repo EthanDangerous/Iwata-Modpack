@@ -1070,6 +1070,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "e14c4af761ef65d736bfdab9842865d5fce27b13b0d777e2ab6703ac545a2c5a"
 metafile = true
@@ -1387,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "eff7ebd7bc65ef5d3ba8ac731bc3fb2fd9697566f53dcedbfc55d0b4bb55d60d"
 metafile = true
 
 [[files]]
