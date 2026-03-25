@@ -761,6 +761,22 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "global_packs/required_resources/Expressive Fresh Moves v2.3.zip"
+hash = "72575e5b30fed5b23c42e304346ed003ddced1650b20f8afd977a96236d04fe5"
+
+[[files]]
+file = "global_packs/required_resources/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "global_packs/required_resources/Icon Branding Remover - For 1.8-1.21.8.zip"
+hash = "bcac2d57426e2db6e78eeaff1bd23cfe954f01768274a3ecd3bf49261e26b47e"
+
+[[files]]
+file = "global_packs/required_resources/Icons v.1.13.2.zip"
+hash = "47788cec73351df92c18aebe4a021c766cb8fa678678abd19d04bef9ab4e60de"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
