@@ -613,10 +613,6 @@ file = "config/sparsestructures.json5"
 hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
 
 [[files]]
-file = "config/spears-common.toml"
-hash = "8b767c48aea89647c0216f594d4a8549722cb290e3356ecfbb37d4132c8bd3dc"
-
-[[files]]
 file = "config/talk_balloons.json5"
 hash = "958142274d0ad19894ce5a784e6f24fd66a7a6fb369e09a77bf23598b4d44092"
 
