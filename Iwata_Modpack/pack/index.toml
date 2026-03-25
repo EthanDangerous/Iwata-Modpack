@@ -1445,8 +1445,28 @@ hash = "0b8161b7e8c71379084080673b304a090e187b1ad45ddc2bb90ebae11f401f6f"
 metafile = true
 
 [[files]]
+file = "mods/talk-balloons.pw.toml"
+hash = "b2c9a00238fdf09565da9aa0f6729e5a0d0a26c1f808a7e7eb27ba03b51854b0"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
+file = "mods/underground-rivers.pw.toml"
+hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
 metafile = true
 
 [[files]]
@@ -1457,6 +1477,41 @@ metafile = true
 [[files]]
 file = "mods/vanity.pw.toml"
 hash = "cc9a86604b8485bffabb324d0b16287b88dd06bb5836465506b548f8eaa48703"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "f6b0fa3fae51b67e39f2bca336126e26ca2df1e0279ecff99176656472671978"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/wabi-sabi-structures.pw.toml"
+hash = "6d054c36efe3925eb6309abd10f46cf3672790353af8d6e53cc45a33acac274f"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "89e8aa3851da2a224d65258ff1fb63210095c38ceb28cbd524af195f01cdfac7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+metafile = true
+
+[[files]]
+file = "mods/xkballs-auto-translate.pw.toml"
+hash = "40991fd613b2764d06e1b1208ba0fe30e8f8ac996ddbc83c068ec73db6d544db"
 metafile = true
 
 [[files]]

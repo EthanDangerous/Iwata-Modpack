@@ -1,0 +1,13 @@
+name = "xkball's Auto Translate"
+filename = "xkball_s-Auto-Translate-NeoForge-Minecraft1.21.1-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H4sZy3D/versions/t4KT4y4p/xkball_s-Auto-Translate-NeoForge-Minecraft1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "8bd3eb0125c5dd10f1cb46111cf12e442919936c02b009cd486aa147a2653b0c8deb9ced963bb2887de7cd54fa7b9b9080cf0efb0aab84ab2d2c7bf5cf5a9685"
+
+[update]
+[update.modrinth]
+mod-id = "4H4sZy3D"
+version = "t4KT4y4p"
