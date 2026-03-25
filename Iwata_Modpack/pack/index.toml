@@ -1330,6 +1330,21 @@ hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "e960df6664514910fa5190229c448bffbcddb29d822bb7c07566bf31fd65772f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "e3e04f1664902e639c5d1df39cc8085fdece053827479b452ac728bcd3604c13"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -1345,8 +1360,38 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
+metafile = true
+
+[[files]]
+file = "mods/rose-gold-equipment.pw.toml"
+hash = "9c2a1cd2020cc9d00b9af254d1309c7fe9b8e7dbc94483ce707bab62723f102e"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "1d8cade30558d813a56021bbad054063b9d9f184896e596bd6517186b687b1e2"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
@@ -1357,6 +1402,36 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "eea5d565d4fb8210aeaf6f1854a10377aed5cca8fdb03db76fd59a03aa2a976b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "78fedef50f6efd3de99d1acb3378af9a25a8d03292f3e674e9f3e675f5fa6bb0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "d9803b1b846f89595216a13cadf7ee7135f5fc1b6dc44a78ff6262b6151b4de2"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
