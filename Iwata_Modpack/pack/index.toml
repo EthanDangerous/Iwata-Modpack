@@ -765,6 +765,11 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "mods/clifftree.pw.toml"
+hash = "56c22d19d851935a00ba8c65fcde2ffb2c57e508d3c1d3385e87a42547fecb16"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
