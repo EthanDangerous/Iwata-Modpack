@@ -801,11 +801,6 @@ hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
 metafile = true
 
 [[files]]
-file = "mods/backported-spears.pw.toml"
-hash = "c5bf41cb79a10ff112afbdf1bd5a046a771906a36b937e27749574d791cef81b"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -953,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/dap-ur-homies.pw.toml"
+hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
@@ -1223,6 +1223,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "ad52f42cb5e9080cd493d1e7b2acfbc6c662ece8f094288604d54a224ce0e440"
+metafile = true
+
+[[files]]
+file = "mods/mob-ai-tweaks.pw.toml"
+hash = "b0d8fae0546ee08b5554fcb8250c46c9ece04c48c5e5a1627e232a569944a152"
 metafile = true
 
 [[files]]
