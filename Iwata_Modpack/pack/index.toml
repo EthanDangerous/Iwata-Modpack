@@ -765,6 +765,16 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
 metafile = true
@@ -777,6 +787,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
@@ -800,6 +820,11 @@ hash = "b9363f3ba7f2ac384cca83c42054485d1b6473d114064cf3aec7933924932bc2"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "efe57fac888f82b6be033ff5fed9b9a71095e1ee65da7e26d6081cba7174f617"
 metafile = true
@@ -820,6 +845,16 @@ hash = "d4f9041f433fed7f891557e10294c1c38e3242adfc7db7c26166d74e0192618b"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "9a95c07a28bda9b0374b4af72132e8405d4fbf574cbac3a3df5d2e3daefff951"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
+metafile = true
+
+[[files]]
 file = "mods/pastel.pw.toml"
 hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
 metafile = true
@@ -830,8 +865,43 @@ hash = "ef4c526ce4044311d4c9c5be9a13ff26ff32bc7e2f66633a87173c0a4f8bdd8a"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "0b8161b7e8c71379084080673b304a090e187b1ad45ddc2bb90ebae11f401f6f"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
