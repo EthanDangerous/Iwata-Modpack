@@ -946,6 +946,11 @@ hash = "55a0ba4e06c9c4098eb04611b0cba005256c06db7421007fea1a7ddd36d7b375"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "f86855a3645203b1d477cdb6a55b7b1e0bed7cc744207b37bb5d59bc5891af56"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
 metafile = true
@@ -973,46 +978,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "3e82f7bc2a521721e30bc60bc9823502daf204646d3a9bf33ab2616591261568"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
-hash = "d94d9d6b8fcd656ed65e886c3b895dade1130661e0eaeb6b22162060a8dbf331"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "72724de3861b2f041eb0b430e2771c2f5287b3b85ba918562e050712b5571b81"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "adaea34e552e64a406a78a3cbcbca8d529052f1a23c9160e9a96e9407c698f3c"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
-hash = "dc24e814f0794ed8cf8e16e6667736049e0763b4204369e07787559007cbcbbd"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
-hash = "872ab8c78193dd775eb707793b8edc528323632a7fe2930223513635c2fddefa"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
-hash = "7be67fc02758063ad89a6e0dba7451a3347d7ddd7e657263e8a7dd98d289613f"
 metafile = true
 
 [[files]]
@@ -1138,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "8c990ed08776b403cf29ae41064f8e3d1fde9d879dd0ef6eaf7ee9031bed82ae"
 metafile = true
 
 [[files]]
@@ -1563,6 +1533,11 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "f6b0fa3fae51b67e39f2bca336126e26ca2df1e0279ecff99176656472671978"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "2d57f246f4d3abf17f789c8a98544c2d30c08b339e9b74a650e59b9f38e004ee"
 metafile = true
 
 [[files]]
