@@ -1,5 +1,5 @@
 {
-  "noGriefMode": false,
+  "noGriefMode": true,
   "enableGrab": true,
   "enableDapFeature": true,
   "enableFireDapFeature": true,
@@ -68,7 +68,7 @@
   "squashNauseaSec": 15,
   "squashDropsItems": true,
   "squashMakesFlat": true,
-  "enableMahito": true,
+  "enableMahito": false,
   "mahitoCurseDurationSec": 60,
   "mahitoTransformsPlayer": true,
   "marioJumpPower": 2.0,

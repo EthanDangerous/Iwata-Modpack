@@ -102,7 +102,7 @@ hash = "555bcb4dbdedd14978ba2cf48f8495e377fbf7e46a60be0d81b4c27703bb07dc"
 
 [[files]]
 file = "config/coopmoves.json"
-hash = "eb9a3d6a36422de85c0b2c29ad3ef28e7e2714a0470e42d0ae86517b863b56fa"
+hash = "95722ff7fb3eda2c0a2ab76c0eabbebf1aa86f406e7163141ad62ca013d5bdb1"
 
 [[files]]
 file = "config/copperagebackport.json"
@@ -775,6 +775,10 @@ hash = "bcac2d57426e2db6e78eeaff1bd23cfe954f01768274a3ecd3bf49261e26b47e"
 [[files]]
 file = "global_packs/required_resources/Icons v.1.13.2.zip"
 hash = "47788cec73351df92c18aebe4a021c766cb8fa678678abd19d04bef9ab4e60de"
+
+[[files]]
+file = "global_packs/required_resources/Pastel Style Amethyst.zip"
+hash = "60b476561c38a003a57ae14b6d5a08212b242f27c272e5fb631add6a0e2d8a9b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1614,4 +1618,4 @@ hash = "47788cec73351df92c18aebe4a021c766cb8fa678678abd19d04bef9ab4e60de"
 
 [[files]]
 file = "unsup.toml"
-hash = "a10c34cdd6cb228c259439bcf641f323b3cf1b63c992249bdaff9204c3e88eb7"
+hash = "81cb6158abb2a6572372c6ab65c0808a37cb4f502338fe173a2b0c5e94cfae4a"

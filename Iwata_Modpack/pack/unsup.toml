@@ -21,7 +21,7 @@ side = "client"
 [[flavor_groups.dh.choices]]
 id = "dh_on"
 name = "Yes"
-description = "Installs Distant Horizons."
+description = "Installs Distant Horizons. DO NOT USE IF YOU ARE USING A MAC, IT WILL CRASH"
 
 [[flavor_groups.dh.choices]]
 id = "dh_off"
