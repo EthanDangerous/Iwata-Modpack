@@ -1220,11 +1220,6 @@ hash = "ad52f42cb5e9080cd493d1e7b2acfbc6c662ece8f094288604d54a224ce0e440"
 metafile = true
 
 [[files]]
-file = "mods/mob-ai-tweaks.pw.toml"
-hash = "b0d8fae0546ee08b5554fcb8250c46c9ece04c48c5e5a1627e232a569944a152"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
@@ -1382,6 +1377,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "cc9a86604b8485bffabb324d0b16287b88dd06bb5836465506b548f8eaa48703"
 metafile = true
 
 [[files]]
