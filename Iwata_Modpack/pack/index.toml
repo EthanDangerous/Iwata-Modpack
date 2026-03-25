@@ -955,11 +955,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/dap-ur-homies.pw.toml"
-hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
-metafile = true
-
-[[files]]
 file = "mods/data-essence.pw.toml"
 hash = "fccfdf1ca47fd3e13439189eb9843e04e96afe543272b24c37ad0f52ca464d56"
 metafile = true
@@ -1235,6 +1230,11 @@ hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
@@ -1287,6 +1287,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
