@@ -931,6 +931,11 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/create-bluemap.pw.toml"
 hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
@@ -1118,6 +1123,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
 metafile = true
 
 [[files]]
@@ -1536,6 +1546,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "ae086ee5b767fb3171f19391b18726fc707ecc42e4f0bf43fdf03d29384ca456"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
 metafile = true
@@ -1596,6 +1611,11 @@ hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
+file = "mods/stohuns-vanity-collection.pw.toml"
+hash = "f141694d78c0c64be5911824c5f079e455f598c0b61c41978e59d984e3fb2a9d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1633,6 +1653,36 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "5259efb90d32a709f022d4029a31ad9abf2209f18da8476ce6abd3c0893f9878"
+metafile = true
+
+[[files]]
+file = "mods/vanity-aesthetic-armory.pw.toml"
+hash = "edf7415f0625882ed41f9d2e87775117088dd102e37e35daf73751336c003272"
+metafile = true
+
+[[files]]
+file = "mods/vanity-ancient-tool-variants.pw.toml"
+hash = "9715d38f5bc0b1bd0a5f849097382bdce2d0e9b66ddceb30a697a133f1c57722"
+metafile = true
+
+[[files]]
+file = "mods/vanity-colossal-weapons.pw.toml"
+hash = "3fb8b315c06f11e43c61d8257129ec84095e62cd747ebf39133cd5ff6d52028e"
+metafile = true
+
+[[files]]
+file = "mods/vanity-core.pw.toml"
+hash = "980e216641c555792628f37b5bee6770069b8fa9c6b859ab5a988a6714782df7"
+metafile = true
+
+[[files]]
+file = "mods/vanity-deep-forged.pw.toml"
+hash = "3ace0eb3b8af1959488695bb7d516a0a631373258b1a3343f0c88f8a859f9248"
+metafile = true
+
+[[files]]
+file = "mods/vanity-ornate-weaponry.pw.toml"
+hash = "b7d7c5b314a5b86b9790445b74c99fc736b561401b1b84c60ff484c3770557d1"
 metafile = true
 
 [[files]]
