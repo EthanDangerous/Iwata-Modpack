@@ -102,7 +102,7 @@ hash = "555bcb4dbdedd14978ba2cf48f8495e377fbf7e46a60be0d81b4c27703bb07dc"
 
 [[files]]
 file = "config/coopmoves.json"
-hash = "95722ff7fb3eda2c0a2ab76c0eabbebf1aa86f406e7163141ad62ca013d5bdb1"
+hash = "10b587df84d67fedb88418e5c43327a1d529949b9ad8024e71dc96cf05940e69"
 
 [[files]]
 file = "config/copperagebackport.json"
@@ -843,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/big-contraptions.pw.toml"
 hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-offline-player-markers-forge.pw.toml"
+hash = "f0261305c1c4a79014d4148562416a8da47ed70f8d0f8ebed5d1cc0c98eeebc2"
 metafile = true
 
 [[files]]
