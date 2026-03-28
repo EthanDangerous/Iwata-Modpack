@@ -836,6 +836,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "4677083f864734b0e6895fbb58036503f6ff4e2a10f0f2346338b380cd095495"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -1178,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
+metafile = true
+
+[[files]]
+file = "mods/gabous-libs.pw.toml"
+hash = "b1552458f67b5deb31eab43b9cf271fd0c49b0f09338c51326911122c768493f"
 metafile = true
 
 [[files]]
@@ -1568,6 +1578,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons-plus.pw.toml"
+hash = "d464e8d84f3489db66f408b5302fe70be667359d129696d7bc7201e1de331661"
 metafile = true
 
 [[files]]
