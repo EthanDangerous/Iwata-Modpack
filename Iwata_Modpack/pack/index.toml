@@ -1061,6 +1061,16 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "655b6600f9b03f5a08492ee733c9c553d79c00b79fee057bfdf95585a35a9838"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "f1d0e764cf7bb40f92b3d2732e8b3261ba246768587f649c0adb8ea2c73d1c74"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -1186,6 +1196,11 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
@@ -1193,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/golem-overhaul.pw.toml"
 hash = "13e3a41ddb14bb60ba1b0ad687df8cd2b6d0f801f304eb5306e1e0d2d6482468"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "554fc5e8aba13353c9b9d4ff066ec6aaf1bd559550633ef4ace120541cada94b"
 metafile = true
 
 [[files]]
@@ -1238,6 +1258,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
@@ -1521,6 +1546,11 @@ hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+metafile = true
+
+[[files]]
 file = "mods/rose-gold-equipment.pw.toml"
 hash = "9c2a1cd2020cc9d00b9af254d1309c7fe9b8e7dbc94483ce707bab62723f102e"
 metafile = true
@@ -1538,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
