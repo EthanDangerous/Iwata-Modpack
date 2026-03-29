@@ -610,7 +610,7 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
+hash = "35cd40f6ba9b6eb6d9a90f19bf108e4af0070056481fcb79a2fb1ba3c8232f20"
 
 [[files]]
 file = "config/talk_balloons.json5"
