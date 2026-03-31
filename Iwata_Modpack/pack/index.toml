@@ -550,7 +550,7 @@ hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "2f0e1333f17b1ce193bd70966e932ea75508bd4d9d8e3cdceb9646f63630681f"
+hash = "e39dfb7db8016f9d0238c72310490567fd6d1b17e043f348bb7e6065669d6fed"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
@@ -1413,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/malum.pw.toml"
 hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
 metafile = true
 
 [[files]]
