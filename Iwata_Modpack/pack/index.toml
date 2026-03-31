@@ -1416,11 +1416,6 @@ hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
 
 [[files]]
-file = "mods/maplink.pw.toml"
-hash = "cde0265f751c5ad8ab34f759462a358dd8d45472a480651f143a1024781d0bcb"
-metafile = true
-
-[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "2f8ee157d70214426a3a0ac25b0ffdd0a33c0ac148eaec2fccdf2ce90c226b54"
 metafile = true
