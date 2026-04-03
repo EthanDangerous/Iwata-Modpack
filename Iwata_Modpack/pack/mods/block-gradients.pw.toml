@@ -1,0 +1,13 @@
+name = "Block Gradients"
+filename = "blockgradients-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0acdeed1bd64b3428ba27ee48010ba7eafea2556"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5678446
+project-id = 929841
