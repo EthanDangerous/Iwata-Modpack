@@ -786,36 +786,6 @@ hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-core.pw.toml"
-hash = "363ab9349147029f80811ea075683003c818beef618f5c62b520aec0d7fb8b32"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
-hash = "08db77a2785b2605df129275688c54f2a2bff4f6c2536be41572c35b3533062a"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-items.pw.toml"
-hash = "af55bd9f2bf95228d201b83e82c83cc7191e4e98319624e3b6ed2cb8482fcad4"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-player.pw.toml"
-hash = "7490e27d4662d5f04d8a30fcc478101dac33eb337e34a992a48c941bcbd6ee02"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "16689a4aee3231fab0d4fc75e59da7656edb8c81a9a1a423e1c6363642399b49"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks.pw.toml"
-hash = "07bfff6c3c10273b2ea9205d20388ce85c5ddc77b22214d2293c2e06476d1780"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
@@ -1663,11 +1633,6 @@ metafile = true
 [[files]]
 file = "mods/quad.pw.toml"
 hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
 metafile = true
 
 [[files]]
