@@ -856,6 +856,11 @@ hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "802f1fb3e56bb2d177c61e68dde1fc15e6a047fd8ebb00ceed363607488887bc"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -1116,6 +1121,11 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "efce6a511bf4a60c64fe082fd183c9cd693861fb79413ba540cb1053ff562191"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims-extensions.pw.toml"
 hash = "655b6600f9b03f5a08492ee733c9c553d79c00b79fee057bfdf95585a35a9838"
 metafile = true
@@ -1278,6 +1288,11 @@ metafile = true
 [[files]]
 file = "mods/gabous-libs.pw.toml"
 hash = "b1552458f67b5deb31eab43b9cf271fd0c49b0f09338c51326911122c768493f"
+metafile = true
+
+[[files]]
+file = "mods/gag.pw.toml"
+hash = "5959363e04f33dd25c7cbf8488012a3e019a865f9f8ec5faadbf036bc2a2fca5"
 metafile = true
 
 [[files]]
@@ -1471,6 +1486,11 @@ hash = "cae99e0793a435fc944af31c7bac1b7b16fd160a122455335a80e827de8c8a5b"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f5bba8e4957d5f6d549838d9997b04056d5b15182cccdcd5827c7ee8ae093917"
+metafile = true
+
+[[files]]
 file = "mods/malum-vestis.pw.toml"
 hash = "095e9b4798ceaee1c3a57360b06c4df43c9c1c3036f3f53b4cc364ef312640a3"
 metafile = true
@@ -1488,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "9df98decfd19caddd09b102d31902fba9af7f3f4bcdb4ec9420b0e866ae04dfb"
 metafile = true
 
 [[files]]
@@ -1581,6 +1606,11 @@ hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
@@ -1593,6 +1623,11 @@ metafile = true
 [[files]]
 file = "mods/pastel.pw.toml"
 hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
 
 [[files]]
@@ -1627,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
@@ -1831,6 +1866,11 @@ hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
@@ -1838,6 +1878,11 @@ metafile = true
 [[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "e96f95f5bf870558b78858105c686821df5f86c9260a21bb14dc5fecd9ea99f4"
 metafile = true
 
 [[files]]
