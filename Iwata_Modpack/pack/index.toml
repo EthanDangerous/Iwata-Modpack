@@ -1275,11 +1275,6 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
@@ -1782,6 +1777,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "6a652553ffaf58fd4c7010d27ce060df632b715597be3a44b32d470191b9b686"
 metafile = true
 
 [[files]]
