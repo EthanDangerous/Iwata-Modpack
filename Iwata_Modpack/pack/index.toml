@@ -761,6 +761,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "global_packs/required_resources/Aquaculture 2 Excalibur Support.zip"
+hash = "a60c4cb99fee405d812d25e178344cc728eed05b01a3d92e3087dca6f9e58997"
+
+[[files]]
 file = "global_packs/required_resources/Expressive Fresh Moves v2.3.zip"
 hash = "72575e5b30fed5b23c42e304346ed003ddced1650b20f8afd977a96236d04fe5"
 
@@ -818,6 +822,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6f4285fa18f70a91b33f9f5765ac9a1f0b6eab4340ffa8afa914f0cbcc9a9c25"
 metafile = true
 
 [[files]]
@@ -926,6 +940,11 @@ hash = "b5b46e4d9cc18c1e2c19c59a7ed58918e49fb5a6692c538e638fb52b82b023a5"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "4c05ea60d85212e4737d23a4b5ee74659a37c7cb9d6ab54c71b2eca56ed1f58c"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -1001,6 +1020,11 @@ hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "59ca697b09cd2339e6bbd524828fed73fa842083846e950a555aa081fedb6c63"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
@@ -1013,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "c4a95b0d71bc8dca3c8c8d8b2c256131cf568ae9262a9764f4e95986310941bb"
 metafile = true
 
 [[files]]
@@ -1086,8 +1115,18 @@ hash = "183f4532b3c853915ec256a6dd57ef582cb6dd1b08cf593101d99ff6dd75be0b"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "2475a31f70a04536c8e2b89c064aabcd4aa2e7e3921540ae38698f7267d35370"
 metafile = true
 
 [[files]]
@@ -1156,6 +1195,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
 metafile = true
@@ -1171,13 +1215,13 @@ hash = "1045ba1bb46eb77e2fea9be04268c2c73c161b94f3bceddbd4c3dbff1c0bf555"
 metafile = true
 
 [[files]]
-file = "mods/endrem.pw.toml"
-hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+file = "mods/enders-delight.pw.toml"
+hash = "d9974ce7736002c8a696af3c754fbc2702ba8751dcb2eed6d6ca8a824ec2f7eb"
 metafile = true
 
 [[files]]
-file = "mods/ends-delight.pw.toml"
-hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
+file = "mods/endrem.pw.toml"
+hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
@@ -1231,8 +1275,13 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "b75ba223cc0d159d38890b0c5db42e9454210f874dd0d0b9060f8277e803a5d8"
+hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
 
 [[files]]
@@ -1441,6 +1490,11 @@ hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
+metafile = true
+
+[[files]]
 file = "mods/longer-chat-history.pw.toml"
 hash = "12e4601519ca5fb940e9658b71f2218f2a06c41847b714978e1568435688858d"
 metafile = true
@@ -1513,6 +1567,11 @@ metafile = true
 [[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "9df98decfd19caddd09b102d31902fba9af7f3f4bcdb4ec9420b0e866ae04dfb"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "c6255e3933c0916746e8b3e9be3be4734093ae2259c572c117b52130d2aab62e"
 metafile = true
 
 [[files]]
@@ -1598,6 +1657,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
 metafile = true
 
 [[files]]
@@ -1861,11 +1925,6 @@ hash = "a778178142291a92adbc31f57914b8366964a1f81038969c9e53a670dfc004f1"
 metafile = true
 
 [[files]]
-file = "mods/tide.pw.toml"
-hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
 metafile = true
@@ -1873,6 +1932,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
+metafile = true
+
+[[files]]
+file = "mods/trailtales-delight.pw.toml"
+hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
 metafile = true
 
 [[files]]
