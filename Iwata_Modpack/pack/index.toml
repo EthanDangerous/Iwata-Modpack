@@ -1861,6 +1861,11 @@ hash = "a778178142291a92adbc31f57914b8366964a1f81038969c9e53a670dfc004f1"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "74674dea8d53bc4e52793a6bdd03092478ee67d2d5c65f542ea13a5dc2847f32"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
 metafile = true
