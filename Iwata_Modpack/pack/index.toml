@@ -26,27 +26,31 @@ hash = "a6e9063a0c33288d7f10df461be742ce25c3b55be59c6b0b48035b5e321c050d"
 
 [[files]]
 file = "config/bluemap/maps/new_world.conf"
-hash = "8f8e4447a2eebecb44201951c8140f3f94346354bf6e344bd7727ed603b95355"
+hash = "0cb076112f91a76086cec9d31322a3b99c0b6746f4c7316190c6f5657b03de74"
 
 [[files]]
 file = "config/bluemap/maps/new_world_datanessence_memorial.conf"
-hash = "92a6fe900ed6951b8368a78b5b636c42209d137a5bb7665b3360676087de3380"
+hash = "e47d0c0c4de2690a86293d332996d213ad55f3486ba156b63fb5aeee5567b786"
 
 [[files]]
 file = "config/bluemap/maps/new_world_datanessence_sanctuary.conf"
-hash = "89ca7c7418cda7e7604db5e7f2532c4d2a867d6cdf6e496821c24eb5345dfd53"
+hash = "81c471af20b7ac009d06e2359ecef40cb65ae596f46015033e4f435a82998c98"
 
 [[files]]
 file = "config/bluemap/maps/new_world_pastel_deeper_down.conf"
-hash = "088c7cca18ec57cd4084e085277dd53e135ce4182446b6b764754a488ca24edc"
+hash = "34f89cd35cf89fa7c3b613bb8d8eb30bd8f59c2dbcfbcdce4c0a5092a7ae3d7b"
+
+[[files]]
+file = "config/bluemap/maps/new_world_the_aether.conf"
+hash = "fb59b2663654f7d4a967f33dc49b683a97af75089380bee5b6b8b1789d11f0fc"
 
 [[files]]
 file = "config/bluemap/maps/new_world_the_end.conf"
-hash = "d21278422fbecc0b9e664def1fd9f7e35721e0d602a036e3b84b9dc6ff8f77dc"
+hash = "e2b99d26cd22a50c34c5a8ae8c9bf2935d7752a8baa2500b3ed0859c48de34dd"
 
 [[files]]
 file = "config/bluemap/maps/new_world_the_nether.conf"
-hash = "c11d47c3231d7a5dab8a35d7711a3b46bac23eb7228f6e3f53c215d8cd67fe51"
+hash = "8549b2b50ba94015935fb1ecec0d2a47982e884b54a32e6c9c8fbc70ed93f89b"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
