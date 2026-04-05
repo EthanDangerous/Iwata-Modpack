@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d76ae497fece73ffb1f420a1928c2fc5d0777cff24db2ca3fe471aff3ad15d49"
+hash = "ee3aac262672e2a01dee7e2949d237c783f8a6bcae20650de8655a90b08a0d82"
 
 [[files]]
 file = "config/Luminous_Nether_Configuration.toml"
