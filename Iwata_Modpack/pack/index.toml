@@ -22,7 +22,7 @@ hash = "2af68e12100e2dba177afcac23cec23e3ec26a39dad0f7bb486107dcc0ebfda4"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "e29583dbb6fe346c4ccefe0090f50e544abfe4d7fe2e1f51b2c8cfc5b886618e"
+hash = "a6e9063a0c33288d7f10df461be742ce25c3b55be59c6b0b48035b5e321c050d"
 
 [[files]]
 file = "config/bluemap/maps/new_world.conf"
