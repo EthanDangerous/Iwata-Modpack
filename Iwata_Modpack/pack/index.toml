@@ -1489,11 +1489,6 @@ hash = "17ba3a973a1282d3467cbb6d04c14a9ffe8febae6452abc6a9e4f72a5ca7e1b8"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "885976c7e80d47800b5fe6dc614097772cc88f908160abd50fcdebcda7e1270c"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
