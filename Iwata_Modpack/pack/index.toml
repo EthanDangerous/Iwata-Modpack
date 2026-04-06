@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/backported-spears.pw.toml"
-hash = "c5bf41cb79a10ff112afbdf1bd5a046a771906a36b937e27749574d791cef81b"
+hash = "1e6ead2ed52f8acf4dc23ac9533433654c304c28eb6595da5835281f15749cc8"
 metafile = true
 
 [[files]]
