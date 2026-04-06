@@ -1714,16 +1714,6 @@ hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "6c24f0cecebba030bbb8b82c114e920582c5b2f20ba66287b724cf283299a70f"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "7b68b391a661c8478452f4870a89bf9f4d07b8c87c5b66695cde2f2dc2a2b2a2"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
