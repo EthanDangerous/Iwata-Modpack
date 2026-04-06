@@ -1024,6 +1024,11 @@ hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
 metafile = true
@@ -1049,6 +1054,11 @@ hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "23c3ad78a97a4bec1129f515939ef1cfd9833a15948dbaede7cb678c35b2d028"
+metafile = true
+
+[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
 metafile = true
@@ -1061,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "c4a95b0d71bc8dca3c8c8d8b2c256131cf568ae9262a9764f4e95986310941bb"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "f401ff588aaebb0beefa47d306290d47c33bea7730a3a0f154d661ce4e07c892"
 metafile = true
 
 [[files]]
@@ -1704,6 +1719,16 @@ hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark-library.pw.toml"
+hash = "6fdba2d1aef5ef5a70db2b1739535b2b5df83bec3c01f2aa8657dd8286352373"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7b68b391a661c8478452f4870a89bf9f4d07b8c87c5b66695cde2f2dc2a2b2a2"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
@@ -1961,6 +1986,11 @@ metafile = true
 [[files]]
 file = "mods/trailtales-delight.pw.toml"
 hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
+metafile = true
+
+[[files]]
+file = "mods/translatorpp.pw.toml"
+hash = "21f3584074b6b0377ae26778911d63fc97a0b6cf9b46e72b3977731efd49bddf"
 metafile = true
 
 [[files]]

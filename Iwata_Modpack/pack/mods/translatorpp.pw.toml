@@ -1,0 +1,13 @@
+name = "Translator++"
+filename = "translatorpp-neoforge-2.2.3+1.21.0-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92ec939062e7cea78ccfabaa185d127071d153f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7654790
+project-id = 1254626
