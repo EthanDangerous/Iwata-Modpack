@@ -1129,6 +1129,11 @@ hash = "6ce21f44b2d5ce6b290559bbcf6e432c9be7134872de62d1dd4067f38e07d319"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "183f4532b3c853915ec256a6dd57ef582cb6dd1b08cf593101d99ff6dd75be0b"
 metafile = true
@@ -1856,6 +1861,11 @@ metafile = true
 [[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "ae086ee5b767fb3171f19391b18726fc707ecc42e4f0bf43fdf03d29384ca456"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-discord-bridge.pw.toml"
+hash = "991448e10c20bc7cf60208b5e461a5dc20a1ea549645562b96e2fa8d152a814f"
 metafile = true
 
 [[files]]
