@@ -1,7 +1,0 @@
-name = "simple-voice-chat-discord-bridge"
-filename = "voicechat-discord-fabric-1.19.2-3.1.4.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/S1jG5YV5/versions/RRteg6PX/voicechat-discord-fabric-1.19.2-3.1.4.jar"
-hash-format = "sha256"
-hash = "9adebe174d932e43af33aa6be2482c35e6c22f08ca242bea1c9240bdb44224c1"
