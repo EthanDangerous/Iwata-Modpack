@@ -1014,11 +1014,6 @@ hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
-metafile = true
-
-[[files]]
 file = "mods/create-bluemap.pw.toml"
 hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
@@ -1799,6 +1794,11 @@ hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true
 
 [[files]]
+file = "mods/restore-chat-links.pw.toml"
+hash = "a9fadb2f35d0129ebb4b32bb881f797c231d012cdc1b948dbf9e08d65a9c5b3d"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
 metafile = true
@@ -1839,8 +1839,18 @@ hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
+file = "mods/server-chat-sync.pw.toml"
+hash = "3b4e286fab828d142e2db5c748f31344df72860fd73fc3f26141ffbcd439a97c"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "4abaf62a0f44239cee5d5638b47307f2a9017ef499330b2d74f89080d9a09b00"
+metafile = true
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
 metafile = true
 
 [[files]]
@@ -1981,6 +1991,11 @@ metafile = true
 [[files]]
 file = "mods/translatorpp.pw.toml"
 hash = "21f3584074b6b0377ae26778911d63fc97a0b6cf9b46e72b3977731efd49bddf"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
 metafile = true
 
 [[files]]
