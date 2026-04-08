@@ -765,6 +765,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "global_packs/required_resources/Aether Regenerated v1.2.1.zip"
+hash = "4a50e60c3c6242588f201c02bd492d223967bfe26672546ea3168002932cd040"
+
+[[files]]
 file = "global_packs/required_resources/Aquaculture 2 Excalibur Support.zip"
 hash = "a60c4cb99fee405d812d25e178344cc728eed05b01a3d92e3087dca6f9e58997"
 
@@ -911,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/block-gradients.pw.toml"
 hash = "9d7204bf9cac0eb370488e1dcafd378f35db3ff9753f3a1fab27fd0a5e4e6275"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-banners.pw.toml"
+hash = "dc8603755faa5bf8f4439f3c1bccc473685863d5277b396f7c981a6c6cc6edd9"
 metafile = true
 
 [[files]]
@@ -1344,6 +1353,11 @@ hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "e14c4af761ef65d736bfdab9842865d5fce27b13b0d777e2ab6703ac545a2c5a"
 metafile = true
@@ -1581,6 +1595,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3382daf9b5fadbbef742b84fe5b09fa912cc75cd4234e0ba573b85a513354123"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "cfa49c262d039f7f3ac13761560cdb83dfe2ca7adb0513b1bd7b9a6444b5fe16"
 metafile = true
 
 [[files]]
@@ -1861,6 +1880,11 @@ metafile = true
 [[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "ae086ee5b767fb3171f19391b18726fc707ecc42e4f0bf43fdf03d29384ca456"
+metafile = true
+
+[[files]]
+file = "mods/simple-villager-follow.pw.toml"
+hash = "38a559adcc6621a647a5843d7e47696a2466ffd53f12b6d7ef1f0e38aa84d3b7"
 metafile = true
 
 [[files]]

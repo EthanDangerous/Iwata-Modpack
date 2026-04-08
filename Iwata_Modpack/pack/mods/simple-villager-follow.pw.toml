@@ -1,0 +1,13 @@
+name = "Simple Villager Follow"
+filename = "simple_villager_follow-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLfqKtxl/versions/y0H9P88u/simple_villager_follow-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "5146c52061c9c392fbace306262b71d592acaaf3af79f90e7569faa0f7a357f6daded2aa312c1b0c3c27d4fdf9f6336395befb22892d30fcb650e8721eadb2fb"
+
+[update]
+[update.modrinth]
+mod-id = "TLfqKtxl"
+version = "y0H9P88u"
