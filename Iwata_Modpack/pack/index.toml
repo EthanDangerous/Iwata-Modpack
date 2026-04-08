@@ -1488,11 +1488,6 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
 hash = "17ba3a973a1282d3467cbb6d04c14a9ffe8febae6452abc6a9e4f72a5ca7e1b8"
 metafile = true
@@ -2030,11 +2025,6 @@ metafile = true
 [[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
-metafile = true
-
-[[files]]
-file = "mods/unitytranslate.pw.toml"
-hash = "36e17b0276c40d13fa66c34f999725dc7df973a3cf4c7724327f44ee6ffaa342"
 metafile = true
 
 [[files]]
