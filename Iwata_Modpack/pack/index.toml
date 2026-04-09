@@ -1438,6 +1438,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "29f6f0a0232d2020276770855a8ae27458e03cd1be0ece3800c6a31d4cf84f58"
+metafile = true
+
+[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "4a5e7ba2003a7c5df99905c4952c43e011f7b29a7fad9e20457a76a72e92fde2"
 metafile = true
@@ -1505,6 +1510,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
 hash = "17ba3a973a1282d3467cbb6d04c14a9ffe8febae6452abc6a9e4f72a5ca7e1b8"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]
@@ -1723,6 +1733,11 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "538a74dbca9ad4f93e63f65a20396a9d8d7d0c0d6cae900691a07c4dbacb0bf9"
+metafile = true
+
+[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "86a9a547931b50ca0d9716912f2858e15b05e71e3359f40f0667994c2e28c9d2"
 metafile = true
@@ -1760,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
 
 [[files]]
