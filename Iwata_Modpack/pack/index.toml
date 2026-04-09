@@ -1638,11 +1638,6 @@ hash = "cfa49c262d039f7f3ac13761560cdb83dfe2ca7adb0513b1bd7b9a6444b5fe16"
 metafile = true
 
 [[files]]
-file = "mods/mindful-darkness.pw.toml"
-hash = "9df98decfd19caddd09b102d31902fba9af7f3f4bcdb4ec9420b0e866ae04dfb"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "c6255e3933c0916746e8b3e9be3be4734093ae2259c572c117b52130d2aab62e"
 metafile = true
