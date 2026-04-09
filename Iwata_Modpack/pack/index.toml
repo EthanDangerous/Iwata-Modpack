@@ -2163,6 +2163,10 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Better tom's create storage 1.1.zip"
+hash = "e28199975d7c6eb1ed75ce4ebc89e103137d8e562da0b34729560f8bf9c5fa00"
+
+[[files]]
 file = "resourcepacks/Expressive Fresh Moves v2.3.zip"
 hash = "72575e5b30fed5b23c42e304346ed003ddced1650b20f8afd977a96236d04fe5"
 
@@ -2177,6 +2181,10 @@ hash = "bcac2d57426e2db6e78eeaff1bd23cfe954f01768274a3ecd3bf49261e26b47e"
 [[files]]
 file = "resourcepacks/Icons v.1.13.2.zip"
 hash = "47788cec73351df92c18aebe4a021c766cb8fa678678abd19d04bef9ab4e60de"
+
+[[files]]
+file = "resourcepacks/Tom's Create Style 1.2 - 1.21.zip"
+hash = "136eca221461a4aa2c172fab057d237969006303bc1cbacbf2571607efb86bbf"
 
 [[files]]
 file = "unsup.toml"
