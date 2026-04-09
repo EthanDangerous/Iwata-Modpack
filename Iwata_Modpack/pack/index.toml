@@ -1018,6 +1018,11 @@ hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "a8f71c53f768759944d1b6a02ccde1eb7556e303b2463f5ecc8fa701eb4088fe"
+metafile = true
+
+[[files]]
 file = "mods/create-bluemap.pw.toml"
 hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
@@ -1205,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "efce6a511bf4a60c64fe082fd183c9cd693861fb79413ba540cb1053ff562191"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+hash = "b2c91caa48b517de3b38dace15338dff01241af901640550990e6bdbda6b5a6e"
 metafile = true
 
 [[files]]
@@ -2115,6 +2125,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
+file = "mods/wilder-flowers.pw.toml"
+hash = "9c46d5266eabe8055bb43ae211e671cb680dfd672ed062f64a0147e1d80a0845"
 metafile = true
 
 [[files]]
