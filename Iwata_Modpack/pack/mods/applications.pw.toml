@@ -1,0 +1,13 @@
+name = "MomentariyModder' Applications"
+filename = "[NeoForge 1.21.1]MomentariyModder'Applications[8.2.0].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7nX5EvcX/versions/z3r8QA0K/%5BNeoForge%201.21.1%5DMomentariyModder%27Applications%5B8.2.0%5D.jar"
+hash-format = "sha512"
+hash = "dca42a037fddfe7a0eac82c61160d1cbaa8e697e58ae522f271252e0dc12a87475147535b0caa74a5e3e6f4964181985572923b6130124867ea347102fe562c4"
+
+[update]
+[update.modrinth]
+mod-id = "7nX5EvcX"
+version = "z3r8QA0K"

@@ -833,6 +833,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/applications.pw.toml"
+hash = "e943bf9c4225e6b97b695ea31ff2f5773ea07351a6e628a94de7c0b3574d9f14"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture-delight.pw.toml"
 hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
 metafile = true
@@ -1100,6 +1105,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+metafile = true
+
+[[files]]
+file = "mods/created-music-discs.pw.toml"
+hash = "b7e33a208ebb37259b58579ad131876b3a39846f7925852c0ddc455efc269c39"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Created Music Discs"
+filename = "[NeoForge 1.21.1]Created Music Discs[6.1.0].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x63tCwHi/versions/uS6l0f2i/%5BNeoForge%201.21.1%5DCreated%20Music%20Discs%5B6.1.0%5D.jar"
+hash-format = "sha512"
+hash = "367f97c4ab49bb130391ff5ea7ade2b6aa223dc4081c4643560c8c335b3d48462fb035f105fec9909f98021449ee779abc7e73d7d904e479bd3fc590b216951d"
+
+[update]
+[update.modrinth]
+mod-id = "x63tCwHi"
+version = "uS6l0f2i"
