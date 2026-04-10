@@ -2048,11 +2048,6 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
-file = "mods/talk-balloons.pw.toml"
-hash = "b2c9a00238fdf09565da9aa0f6729e5a0d0a26c1f808a7e7eb27ba03b51854b0"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
