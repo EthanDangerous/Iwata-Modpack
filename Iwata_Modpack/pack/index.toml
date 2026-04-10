@@ -81,6 +81,10 @@ file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
+file = "config/chat_tools.json"
+hash = "5d487318433442cc085659545bee636f24cb8b72ffaa06ec8e564777251c116a"
+
+[[files]]
 file = "config/chatanimation.json"
 hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
 
