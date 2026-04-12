@@ -802,6 +802,11 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
@@ -1057,6 +1062,11 @@ hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
 metafile = true
@@ -1108,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -1148,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -1352,6 +1362,11 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/farm-3x3.pw.toml"
+hash = "ef8f39b2bdf19caabfec4590839313c11be16a3732ac3802be88fae9c9740d16"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2451e72d798f4e5787c77dbe226818303122f9ef7f4798e622fc02e4c80264cb"
 metafile = true
@@ -1482,8 +1497,18 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "29f6f0a0232d2020276770855a8ae27458e03cd1be0ece3800c6a31d4cf84f58"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
 metafile = true
 
 [[files]]
@@ -1519,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "aa90e8f1b88fdb4519bd83bd940db8fca4fac1257c5455dbc7e623037bd17dff"
 metafile = true
 
 [[files]]
@@ -1657,6 +1687,11 @@ hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "fc40fbc023c67db016e4c0d72f25fcabb708bb17b0749254c00f9b260467ec3f"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "2f8ee157d70214426a3a0ac25b0ffdd0a33c0ac148eaec2fccdf2ce90c226b54"
 metafile = true
@@ -1684,11 +1719,6 @@ metafile = true
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
 hash = "09a964602520a5a74c0e7f2ac36a6388053ced926f8192128d23821c73ce80f6"
-metafile = true
-
-[[files]]
-file = "mods/modern-immersive-paintings.pw.toml"
-hash = "efa2b56b0bcef169d26936f75456099202ead6646fa4b7e0d8fad6fec2e11be4"
 metafile = true
 
 [[files]]
@@ -1794,6 +1824,11 @@ metafile = true
 [[files]]
 file = "mods/pastel.pw.toml"
 hash = "aef91b49956d6a5ddb71b2b0b8b60fffb045de7af8ebd9ec8946b2d579ed8f4c"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "ea074d763032d4d7422da63a987b18f78a192827d9c825d8f057d1d4e6dd8655"
 metafile = true
 
 [[files]]
@@ -2094,6 +2129,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
