@@ -438,7 +438,7 @@ hash = "7f5519e3906ac99c55cb9cd7e092b287acd0d1af4f52a405afa934f17f815ade"
 
 [[files]]
 file = "config/mob-ai-tweaks/general_config.txt"
-hash = "867626e8ac0719ca38ad601f0d42312748937a323cd6b0dc65e658aec3f900b7"
+hash = "c685715e2727ea09b59c21db9ed8db6111486515671a566220be2be66cd8f625"
 
 [[files]]
 file = "config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt"
