@@ -1327,6 +1327,11 @@ hash = "beef54d1aaca0017d151c54bef18db45d3911de0c1fdb089dda15cb50e45da30"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "1f8bf41d4500de0b9acb68034929a969e6f147f95e501b2a7596b16609258493"
+metafile = true
+
+[[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "c4bc7c10328b5a2aafcb916dff29cdb3f2be812c3e6d80d921ea1cfd2f761251"
 metafile = true
