@@ -1007,6 +1007,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "aa4c93434d4d290412ed611bfeb10c561c5ebdf1805cb15fc7d1a7dec99bda53"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
@@ -1204,6 +1209,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
 metafile = true
 
 [[files]]
