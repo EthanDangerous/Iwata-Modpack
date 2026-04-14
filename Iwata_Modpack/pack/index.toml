@@ -1124,11 +1124,6 @@ hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
-file = "mods/create-vintage-grinder-edition.pw.toml"
-hash = "5c3bb7bf163f96066a783d389bf92a6e6ed5246d72b3bd2f75ce015588344e6d"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
 metafile = true
