@@ -1,0 +1,13 @@
+name = "Create: Return Ticket"
+filename = "createreturnticket-1.21.1-b1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "436b9dd7a5a006671685dc6016fb935dbc6db483"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7771970
+project-id = 1418827

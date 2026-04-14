@@ -1,0 +1,13 @@
+name = "Create: Renewables"
+filename = "CreateRenewables-NeoForge-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a1627c5c22bcb5d7a648742c7197e6ca75d26c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7305951
+project-id = 1368278

@@ -769,14 +769,6 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "global_packs/required_resources/Aether Regenerated v1.2.1.zip"
-hash = "4a50e60c3c6242588f201c02bd492d223967bfe26672546ea3168002932cd040"
-
-[[files]]
-file = "global_packs/required_resources/Aquaculture 2 Excalibur Support.zip"
-hash = "a60c4cb99fee405d812d25e178344cc728eed05b01a3d92e3087dca6f9e58997"
-
-[[files]]
 file = "global_packs/required_resources/Expressive Fresh Moves v2.3.zip"
 hash = "72575e5b30fed5b23c42e304346ed003ddced1650b20f8afd977a96236d04fe5"
 
@@ -1117,13 +1109,28 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
+file = "mods/create-renewables.pw.toml"
+hash = "0eac3204060e88ff9eea83cc301e16b9d5ff49c1eb3ac57b1f12dec189ab4789"
+metafile = true
+
+[[files]]
+file = "mods/create-return-ticket.pw.toml"
+hash = "73979e204860e9415ca08b8f71d14c77f17a7ab6a251064bd60338435d29c36c"
+metafile = true
+
+[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
+file = "mods/create-vintage-grinder-edition.pw.toml"
+hash = "5c3bb7bf163f96066a783d389bf92a6e6ed5246d72b3bd2f75ce015588344e6d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
 metafile = true
 
 [[files]]
@@ -1607,6 +1614,16 @@ hash = "17ba3a973a1282d3467cbb6d04c14a9ffe8febae6452abc6a9e4f72a5ca7e1b8"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "395ed890024bdb90e7c0fed1edf8b3905a367942ded954fca92384c76a7e5601"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
@@ -1942,6 +1959,11 @@ hash = "a9fadb2f35d0129ebb4b32bb881f797c231d012cdc1b948dbf9e08d65a9c5b3d"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
 metafile = true
@@ -2260,6 +2282,14 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Aether Regenerated v1.2.1.zip"
+hash = "4a50e60c3c6242588f201c02bd492d223967bfe26672546ea3168002932cd040"
+
+[[files]]
+file = "resourcepacks/Aquaculture 2 Excalibur Support.zip"
+hash = "a60c4cb99fee405d812d25e178344cc728eed05b01a3d92e3087dca6f9e58997"
 
 [[files]]
 file = "resourcepacks/Better tom's create storage 1.1.zip"
