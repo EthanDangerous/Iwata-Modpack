@@ -1099,6 +1099,11 @@ hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
 metafile = true
 
 [[files]]
+file = "mods/create-fishing-bobber-detector.pw.toml"
+hash = "4c6f2232e99ddc3361bbd19fe7ec73a67c3650f732cb7c300ffc354dc672f893"
+metafile = true
+
+[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "710f6b193afb4f0660b9e1e0e084772abbac6d2eb5f3a6dfeb6cf3c0a4e3e529"
 metafile = true
@@ -1125,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
