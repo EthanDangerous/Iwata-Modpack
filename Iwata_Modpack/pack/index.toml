@@ -944,11 +944,6 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
-metafile = true
-
-[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "b03e7f9fec272ba83a7ce3717857ea7675b1108f052742914f4dd1fde24e5684"
 metafile = true
