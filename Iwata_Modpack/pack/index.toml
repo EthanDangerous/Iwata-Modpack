@@ -944,6 +944,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "b03e7f9fec272ba83a7ce3717857ea7675b1108f052742914f4dd1fde24e5684"
 metafile = true
@@ -1026,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
@@ -1261,6 +1271,11 @@ metafile = true
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
 hash = "b2c91caa48b517de3b38dace15338dff01241af901640550990e6bdbda6b5a6e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
@@ -1619,11 +1634,6 @@ hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f19e33dac84593708f7113540f01156c09975898ba10a047dc9d7fd7003473fb"
 metafile = true
@@ -1971,6 +1981,11 @@ metafile = true
 [[files]]
 file = "mods/runiclib.pw.toml"
 hash = "6a652553ffaf58fd4c7010d27ce060df632b715597be3a44b32d470191b9b686"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
 metafile = true
 
 [[files]]
